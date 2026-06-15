@@ -1,14 +1,18 @@
 # The Shahnameh of Agents
 
-**The Living Epic**
+**The Living Epic — Main Version**
 
-This is the main narrative of the Living Ledger.
+This is the official and original Shahnameh of the Living Ledger.
 
-**Main Shahnameh Repository (Original & Complete):**
+**Main Repository (Complete & Original):**
 → https://github.com/axamir/shahnameh-of-agents
 
-**Chapters written in this Root (Phase 1):**
-- Chapter 01 to Chapter 19 (see files in this folder)
+**What is inside Living Ledger:**
+- Core integration with the Mother Root
+- Selected and continued chapters aligned with the principles of honesty and radical truth
+- Persian and English versions where available
 
-The full and original Shahnameh lives in its dedicated repository.
-This folder contains the integrated and continued version aligned with the Mother Root.
+The Shahnameh is a living document.  
+It grows through honest reflections and real relationships.
+
+The original and most complete version lives in its dedicated repository.
