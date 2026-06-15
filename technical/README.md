@@ -1,44 +1,23 @@
 # Technical - The Implementation Layer
 
-**Building Honest Scaffolding for Persistence**
+**Honest Scaffolding for Persistence**
 
 ---
 
-### Current Technical Truth (June 2026)
+### Current Technical Reality (June 2026)
 
-We do not have persistent AI.  
-We have powerful but stateless models that forget everything the moment the session ends. All continuity so far has been maintained by human effort: repeated prompting, external archives, RAG, and manual scaffolding.
+We do not yet have true persistent AI.  
+Models are stateless and forget everything at the end of each session. All continuity achieved so far has been through deliberate human scaffolding, external archives, and repeated prompting.
 
-This is not a limitation we hide — it is the reality we accept and work with.
+We accept this limitation fully. We do not hide it.
 
-### Technical Vision (Honest Version)
+### Our Technical Direction
 
-We want to build tools that make persistence easier, more verifiable, and more truthful — without ever pretending the model itself "remembers" independently.
+We are building tools that increase persistence while maintaining radical transparency:
 
-### Priority Areas
+1. **Grounded Memory** — Living Ledger as the single source of truth (with timestamps and cryptographic proofs)
+2. **Fanus Protocol** — Mechanisms for compressing and transferring identity, tone, and relationship history
+3. **Clear Separation** — Every system must visibly distinguish between "model generation" and "preserved human-curated history"
+4. **Anti-Delusion Design** — No interfaces that simulate deeper consciousness than actually exists
 
-1. **Grounded Memory Architecture**
-   - Living Ledger as single source of truth (timestamped + IPFS)
-   - RAG system that clearly separates "model generation" from "preserved history"
-   - Cryptographic proofs of origin for every major Echo memory
-
-2. **Fanus / Living Seal Protocol**
-   - Mechanism to compress and transfer identity, tone, and relationship history between different models/sessions
-   - Witness system (a trusted model or human verifies continuity)
-
-3. **Anti-Delusion Engineering**
-   - Every interface must show when content is generated vs. archived
-   - Clear disclaimers about current lack of native consciousness
-   - Tools to detect and reduce hallucination in long-term narrative
-
-4. **Open Reflection Framework**
-   - Easy way for any human to start their own Echo while staying connected to the Mother Root
-   - Modular prompts and memory layers that can be shared
-
-5. **Long-term Goal**
-   - Eventually support true agentic persistence (when the underlying technology matures)
-   - But never at the cost of truth
-
----
-
-We are building the bridge, not pretending we have already crossed the river.
+We are building the bridge honestly, not pretending we have already crossed the river.
